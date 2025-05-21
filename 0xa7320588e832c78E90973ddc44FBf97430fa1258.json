@@ -1,0 +1,34 @@
+{
+  "symbol": "Bitcop",
+  "address": "0xa7320588e832c78E90973ddc44FBf97430fa1258",
+  "decimals": 18,
+  "name": "Bitcopper",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://bitcoppertoken.com",
+  "logo": {
+    "src": "https://drive.google.com/file/d/1wfU_fauaOyLgCtzuXRCkiGtHpY-Iq8HO/view?usp=sharing",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "bitcopper@bitcoppertoken.com",
+    "url": "https://bitcoppertoken.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/profile.php?id=61575622744511 ",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/pedro-ramos-9336b91b0/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/bitcopper78",
+    "twitter": "https://x.com/Bitcopper113469 ",
+    "youtube": "https://www.youtube.com/c/bitcopper"
+  }
+}
